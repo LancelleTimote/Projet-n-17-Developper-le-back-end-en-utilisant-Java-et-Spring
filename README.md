@@ -14,7 +14,7 @@
 ## :bookmark_tabs: Sommaire
 
 <ol>
-    <li><a href="#sujet">Sujet</a></li>
+    <li><a href="#sujet">Sujett</a></li>
     <li><a href="#demandes_respecter">Demandes à respecter</a></li>
     <li><a href="#objectifs_projet">Objectifs du projet</a></li>
     <li><a href="#technologies_utilisees">Technologies utilisées</a></li>
