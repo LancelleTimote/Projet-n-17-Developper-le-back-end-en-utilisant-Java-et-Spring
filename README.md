@@ -4,7 +4,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/LancelleTimote/Projet-n-17-Developper-le-back-end-en-utilisant-Java-et-Spring-partie-front-end?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/LancelleTimote/Projet-n-17-Developper-le-back-end-en-utilisant-Java-et-Spring-partie-front-end?style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/LancelleTimote/Projet-n-17-Developper-le-back-end-en-utilisant-Java-et-Spring-partie-front-end?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/LancelleTimote/Projet-n-17-Developper-le-back-end-en-utilisant-Java-et-Spring-partie-front-end?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timote-lancelle-devweb/)
 
 ## :mag: Aperçu
@@ -14,7 +13,7 @@
 ## :bookmark_tabs: Sommaire
 
 <ol>
-    <li><a href="#sujet">Sujett</a></li>
+    <li><a href="#sujet">Sujet</a></li>
     <li><a href="#demandes_respecter">Demandes à respecter</a></li>
     <li><a href="#objectifs_projet">Objectifs du projet</a></li>
     <li><a href="#technologies_utilisees">Technologies utilisées</a></li>
