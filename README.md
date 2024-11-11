@@ -40,7 +40,7 @@ ChâTop veut développer un portail en ligne pour permettre aux locataires poten
 
 ## :checkered_flag: 3. Objectifs du projet <a name = "objectifs_projet"></a>
 
-- Apprendre à utiliser Java et Spring (initialisation d'une application Spring, mise en place de JWT, etc...).
+Apprendre à utiliser Java et Spring (initialisation d'une application Spring, mise en place de JWT, etc...).
 
 ## :computer: 4. Technologies utilisées <a name = "technologies_utilisees"></a>
 
@@ -52,12 +52,12 @@ ChâTop veut développer un portail en ligne pour permettre aux locataires poten
 
 ## :exclamation: 5. Prérequis <a name = "prerequis"></a>
 
-Avoir fait le necéssaire avec la partie front-end disponible ici :
+Avoir fait le necéssaire avec la partie back-end disponible ici :
 https://github.com/LancelleTimote/Projet-n-17-Developper-le-back-end-en-utilisant-Java-et-Spring-partie-back-end
 
 ## :wrench: 6. Installation <a name = "installation"></a>
 
-- Cloner ce repository.
+- Cloner ce repository ;
 - Pour installer les différents packages, dans le terminal à partir du dossier front-end, exécuter npm install.
 
 ## :question: 7. Utilisation du site web <a name = "utilisation_siteweb"></a>
